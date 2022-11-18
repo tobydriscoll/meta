@@ -382,3 +382,7 @@
   website: https://python-public-policy.afeld.me/
   repository: https://github.com/afeld/python-public-policy
   image: https://user-images.githubusercontent.com/86842/197553222-3bb7f8e7-a136-4bae-b8c0-896837bcc199.png
+- name: Data Science 1 
+  website: https://ud-math-data-science-1.github.io/notes/intro.html
+  repository: https://github.com/UD-Math-Data-Science-1/notes
+  image: https://raw.githubusercontent.com/UD-Math-Data-Science-1/notes/main/logo.png
